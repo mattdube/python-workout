@@ -1,5 +1,6 @@
-.coverage
+.coverage 
 htmlcov/*
 htmlcov
 .ipynb_checkpoints
 Untitled*ipynb
+.json
